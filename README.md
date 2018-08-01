@@ -1,6 +1,8 @@
 # notes
 
-# random branch
+# random 
+	- Wednesday
+
 
 # Monday
 	- to do:
