@@ -3,4 +3,4 @@
 # Monday
 	- to do:
 
-# Tuesday, July 31th
+# Tuesday, July 31t
